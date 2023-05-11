@@ -7,9 +7,6 @@ A documentary released in 2010 called "Waiting for Superman" was the basic inspi
 ## What it does
 InfoVenture is an exploration/story based game where the player character goes around a village doing good deeds for the villagers. These good deeds are split into three sections: environmental awareness, financial literacy, and education. Every time the player does a good deed, they are pushed novel information about their current section.
 
-## How we built it
-InfoVenture was built using C# and Unity, while the assets were made in paint.net and the audio was made in audacity.
-
 ## Challenges we ran into
 At first we had a lot of trouble simplifying broad amounts of information in our three sections for our k-12 target audience. After a lot of research and suggestions from every team member we decided on converting our information into easily digestible facts.
 
@@ -19,14 +16,15 @@ One accomplishment we're particularly proud of is actually the sprites used in t
 ## What we learned
 3 out of the 4 of our members previously had no experience with C# and Unity and now we have enough basic knowledge to make a functional game. Learning the ins and outs of this type of game and the top of work that goes into it.
 
-## What's next for InfoVenture
-Our next steps definitely include increasing the amount of information in our current sections and expanding into more informative sections as well. We had concepts for a Health and wellness section where the player would learn about how to take care of themselves and responsibly exercise We also want to add a way for users to check their knowledge at the end of the experience through some kind of review.
-
-## Built With
+## How we built it
+InfoVenture was built using...
 - Unity
 - C#
 - Paint.net 
 - Audacity
+
+## What's next for InfoVenture
+Our next steps definitely include increasing the amount of information in our current sections and expanding into more informative sections as well. We had concepts for a Health and wellness section where the player would learn about how to take care of themselves and responsibly exercise We also want to add a way for users to check their knowledge at the end of the experience through some kind of review.
 
 ## The Team
 ### Christian Durant
