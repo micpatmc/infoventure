@@ -17,11 +17,11 @@ One accomplishment we're particularly proud of is actually the sprites used in t
 3 out of the 4 of our members previously had no experience with C# and Unity and now we have enough basic knowledge to make a functional game. Learning the ins and outs of this type of game and the top of work that goes into it.
 
 ## How we built it
-InfoVenture was built using...
-- Unity
-- C#
-- Paint.net 
-- Audacity
+The technologies/tools used to build InfoVenture:
+- Unity (Engine)
+- C# (Language)
+- Paint.net (Art)
+- Audacity (Audio)
 
 ## What's next for InfoVenture
 Our next steps definitely include increasing the amount of information in our current sections and expanding into more informative sections as well. We had concepts for a Health and wellness section where the player would learn about how to take care of themselves and responsibly exercise We also want to add a way for users to check their knowledge at the end of the experience through some kind of review.
